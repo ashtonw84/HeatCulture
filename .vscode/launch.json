@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open main.html",
-            "file": "c:\\Users\\ashto\\OneDrive\\Desktop\\Internship\\HeatCulture\\main.html"
+            "name": "Open index.html",
+            "file": "c:\\Users\\ashto\\OneDrive\\Desktop\\Internship\\HeatCulture\\index.html"
         }
     ]
 }

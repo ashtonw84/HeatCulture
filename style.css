@@ -1,0 +1,16 @@
+<footer>
+      <p>&copy; 2023 H3atCulture - Miami Heat Fan Page</p>
+    </footer>
+  
+  footer {
+    background-color: #F7B84B;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+    color: white;
+    font-size: 14px;
+  }
+  
